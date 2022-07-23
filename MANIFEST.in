@@ -1,0 +1,4 @@
+include LICENSE.txt
+include REAME.rst 
+recursive-include citylocations/static *
+recursive-include citylocations/templates *
